@@ -25,3 +25,12 @@ Download the English language model for spacy by running the following command:
 python -m spacy download en_core_web_sm
 
 Download the sample PDF file to extract data from, or use your own PDF file.
+
+sample output:-
+
+Name = John Doe
+DOB = 01/01/1990
+MOB = 1234567890
+Emails = john.doe@email.com
+Gaurdians = Jane Doe
+
